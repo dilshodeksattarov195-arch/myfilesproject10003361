@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachedelete",
+        "uuid": 31028752,
+        "checksum": "8pwqd"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
